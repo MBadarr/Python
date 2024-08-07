@@ -13,4 +13,10 @@ print(x)
 print(type(x))
 
 
-# Range Data Type
+# Tuple Data Type
+
+y = tuple(("apple", "banana", "cherry"))
+
+print(y)
+
+print(type(y))
