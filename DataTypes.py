@@ -4,3 +4,13 @@ c = float(1.4)
 
 print(type(a))
 print(type(b))
+
+# List Data Type
+
+x = list(("apple", "banana", "cherry"))
+print(x)
+
+print(type(x))
+
+
+# Range Data Type
