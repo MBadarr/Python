@@ -16,7 +16,7 @@ print(type(x))
 
 # Tuple Data Type
 
-y = tuple(("apple", "banana", "cherry"))
+y = tuple(("apple", "banana", "cherry", "mango"))
 
 print(y)
 
