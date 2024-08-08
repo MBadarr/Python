@@ -8,7 +8,7 @@ print(type(c))
 
 # List Data Type
 
-x = list(("apple", "banana", "cherry"))
+x = list(("apple", "banana", "cherry", "mango"))
 
 print(x)
 
