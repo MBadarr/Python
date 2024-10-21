@@ -12,7 +12,7 @@ for x in fruits:
 
 # Continue Statement
 
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry", "guava"]
 for x in fruits:
     if x == "banana":
         continue
