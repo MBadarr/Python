@@ -18,7 +18,11 @@ for x in fruits:
         continue
     print(x)
 
+# Range Function
 
+for x in range(6):
+    
+    print(x)
 
 # Nested Loops
 
