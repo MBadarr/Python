@@ -1,6 +1,6 @@
 a = 'Hello'
-b = 20
-c = 20
+b = 30
+c = 30
 
 print(type(a))
 print(type(b))
