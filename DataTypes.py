@@ -17,7 +17,6 @@ print(type(x))
 # Tuple Data Type
 
 y = tuple(("apple", "banana", "cherry", "mango"))
-
 print(y)
 
 print(type(y))
