@@ -1,5 +1,5 @@
 a = 'Hello'
-b = 30
+a = 30
 c = 30
 
 print(type(a))
