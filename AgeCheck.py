@@ -1,6 +1,6 @@
 age = int(input('Enter Your Age: '))
 
-if age >= 30
+if age >= 25
 Age:
     print('You can login')
 else:
