@@ -5,7 +5,6 @@ c = 5
 print(type(a))
 print(type(b))
 print(type(c))
-
 # List Data Type
 
 x = list(("apple", "banana", "cherry", "mango"))
