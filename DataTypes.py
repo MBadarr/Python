@@ -10,6 +10,7 @@ print(type(c))
 x = list(("apple", "banana", "cherry", "mango"))
 
 print(x)
+
 print(type(x))
 
 # Tuple Data Type
