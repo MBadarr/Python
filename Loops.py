@@ -25,6 +25,7 @@ for x in range(6):
 
 # Nested Loops
 
+
 adj = ["red", "big", "tasty"]
 fruits = ["apple", "banana", "cherry"]
 
