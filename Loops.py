@@ -11,7 +11,6 @@ for x in fruits:
         break
         
 # Continue Statement
-
 fruits = ["apple", "banana", "cherry", "guava"]
 for x in fruits:
     if x == "banana":
