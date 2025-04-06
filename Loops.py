@@ -4,7 +4,6 @@ for x in fruits:
     
 # Break Statement
 
-
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
     print(x)
