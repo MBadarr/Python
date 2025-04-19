@@ -9,7 +9,8 @@ for x in fruits:
     print(x)
     if x == "banana":
         break
-        
+
+
 # Continue Statement
 
 fruits = ["apple", "banana", "cherry", "guava"]
